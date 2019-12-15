@@ -8,7 +8,7 @@ Give the possibility to substitue the null values by others of choice.
 The csv file must be in the same folder and be named as Data.csv.
 A new one, named Data_new.csv, is generated at the end of the execution.
 
-To run the docker:
+# To run the docker:
 docker run -it -v /folder/to/ML---Data-Processing/data:/data data_processing
 
-where /folder/to/ is the folder where you cloned this project.
+where /folder/to is the folder where you cloned this project.
