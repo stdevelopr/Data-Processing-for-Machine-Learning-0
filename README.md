@@ -11,4 +11,4 @@ A new one, named Data_new.csv, is generated at the end of the execution.
 # To run the docker:
 docker run -it -v /folder/to/ML---Data-Processing/data:/data data_processing
 
-where /folder/to is the folder where you cloned this project.
+where /complete/path/to is the path of the folder where you cloned this project.
